@@ -6,8 +6,7 @@
 <br > In previous roles, I worked on 
 - [Scratch for CS First](https://csfirst.withgoogle.com/project/editor), a version of the Scratch editor made specifically for CS First activities.
 - [Blockly](https://github.com/google/blockly), an open source library for building block-based visual programming interfaces.
-
-🏢 Prior to Google I worked at Microsoft for 5 years on a number of products including Windows, Visual Studio and [MakeCode](https://makecode.com).
+- [MakeCode](https://makecode.com), an online learn-to-code platform where anyone can build games, code devices, and mod Minecraft!
 
 ⛷️ In my spare time I like to make things, ⚡ laser cutting and 3d printing 🖨️ top the list!
 
