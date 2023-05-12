@@ -3,7 +3,6 @@
 🏢 I am a Staff Software Engineer working at Google in California 🌞
 
 👨‍💼 I am a tech lead in Google Labs 🥼 🧪
-
 <br > In previous roles, I've worked on:
 - Tech Lead Manager of Engineering Education infrastructure powering programs such as [CS First](https://csfirst.withgoogle.com) and [Applied Digital Skills](http://applieddigitalskills.withgoogle.com).
 - [Scratch for CS First](https://csfirst.withgoogle.com/project/editor), a version of the Scratch editor made specifically for CS First activities.
