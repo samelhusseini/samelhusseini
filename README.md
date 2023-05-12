@@ -1,9 +1,11 @@
 👋 Hi, I’m @samelhusseini
 
-🏢 I am a Software Engineer working at Google in Mountain View, California 🌞
+🏢 I am a Staff Software Engineer working at Google in California 🌞
 
-👨‍💼 I am a tech lead manager working on Engineering Education infrastructure for programs such as [CS First](https://csfirst.withgoogle.com) and [Applied Digital Skills](http://applieddigitalskills.withgoogle.com).
-<br > In previous roles, I worked on 
+👨‍💼 I am a tech lead in Google Labs 🥼 🧪
+
+<br > In previous roles, I've been in various TL roles on 
+- [CS First](https://csfirst.withgoogle.com) and [Applied Digital Skills](http://applieddigitalskills.withgoogle.com)
 - [Scratch for CS First](https://csfirst.withgoogle.com/project/editor), a version of the Scratch editor made specifically for CS First activities.
 - [Blockly](https://github.com/google/blockly), an open source library for building block-based visual programming interfaces.
 - [MakeCode](https://makecode.com), an online learn-to-code platform where anyone can build games, code devices, and mod Minecraft!
